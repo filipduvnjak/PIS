@@ -7,5 +7,11 @@ namespace aaaaaa
 {
     class NewClass
     {
+
+        void metoda()
+        {
+            int a = 2;
+            int b = 3;
+        }
     }
 }
