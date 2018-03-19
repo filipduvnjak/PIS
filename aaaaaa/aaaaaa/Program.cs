@@ -10,6 +10,7 @@ namespace aaaaaa
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            #komentar
         }
     }
 }
